@@ -24,7 +24,7 @@ My name is Mikael Allef 23 years old, Graduating in **Systems Analysis and Devel
 ![Android](https://img.shields.io/badge/-Android-3bd580?style=flat&logoColor=white&logo=android)
 
 #### 🗺 Conversational Languages
-![Brazilian Portuguese](https://img.shields.io/badge/-Brazilian_Portuguese:_Native-009638?style=flat&logoColor=white) 
+![Brazilian Portuguese](https://img.shields.io/badge/-Brazilian_Portuguese:_Native-009638?style=flat&logoColor=white)
 ![English](https://img.shields.io/badge/-English:_Basic_-39386B?style=flat&logoColor=white)
 
 
