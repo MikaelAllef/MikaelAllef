@@ -4,7 +4,7 @@ My name is Mikael Allef 23 years old, Graduating in **Systems Analysis and Devel
 🖥 Freelancer Graphic Designer
 
 ## 🤹‍♂️ Skills
-#### 👨‍💻 Programming Languages
+#### 👨‍💻 Programming Languages ( Learning )
 ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) 
 ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) 
 ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) 
