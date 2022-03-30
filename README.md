@@ -1,5 +1,7 @@
 # 🙅‍♂️ About Me 
-My name is Mikael Allef 23 years old, Graduating in **Systems Analysis and Development** at FMU. 🇧🇷
+My name is Mikael Allef 23 years old, Graduating in **Systems Analysis and Development** at [FMU](https://portal.fmu.br). 🇧🇷
+
+:school: Education Institute, [Fiap ON](https://www.fiap.com.br), [Rocketseat](https://www.rocketseat.com.br) and [Samsung Ocean](http://oceanbrasil.com:school: )
 
 🖥 Freelancer Graphic Designer
 
@@ -7,7 +9,7 @@ My name is Mikael Allef 23 years old, Graduating in **Systems Analysis and Devel
 #### 👨‍💻 Programming Languages ( Em Aprendizado )
 ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) 
 ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) 
-![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) 
+![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python)
 
 #### 🛠 Multimedia Tools
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-dc5400?style=flat&logoColor=white&logo=microsoft-office) 
