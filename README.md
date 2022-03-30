@@ -1,8 +1,7 @@
 ### 🙅‍♂️ About Me 
+My name is Mikael Allef 23 years old, Graduating in **Systems Analysis and Development** at FMU.
 
-My name is Mikael Allef 23 years old, Graduating in Systems Analysis and Development at FMU.
-
-🖥 Freelancer em Designer Gráfico;
+🖥 Freelancer Graphic Designer
 
 ## 🤹‍♂️ Skills
 #### 👨‍💻 Programming Languages
@@ -31,5 +30,5 @@ My name is Mikael Allef 23 years old, Graduating in Systems Analysis and Develop
 ![Mikael GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaelallef&show_icons=true&theme=dark)
   
   
- >,,Todo mundo é um gênio. Mas, se você julgar um peixe por sua capacidade de subir em uma árvore, ela vai gastar toda a sua vida acreditando que ele é estúpido.“
+ *,,Todo mundo é um gênio. Mas, se você julgar um peixe por sua capacidade de subir em uma árvore, ela vai gastar toda a sua vida acreditando que ele é estúpido.“*
   </div>
