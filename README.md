@@ -25,8 +25,8 @@ My name is Mikael Allef 23 years old, Graduating in **Systems Analysis and Devel
 ![Brazilian Portuguese](https://img.shields.io/badge/-Brazilian_Portuguese:_Native-009638?style=flat&logoColor=white) 
 ![English](https://img.shields.io/badge/-English:_Basic_-39386B?style=flat&logoColor=white)
 
-## 🧾 GitHub Statistics
 
+## 🧾 GitHub Statistics
 ![Mikael GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaelallef&show_icons=true&theme=dark)
   
   
