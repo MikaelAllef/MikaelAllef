@@ -1,4 +1,4 @@
-### 🙅‍♂️ About Me 
+# 🙅‍♂️ About Me 
 My name is Mikael Allef 23 years old, Graduating in **Systems Analysis and Development** at FMU.
 
 🖥 Freelancer Graphic Designer
