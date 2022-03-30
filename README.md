@@ -1,14 +1,35 @@
-### Olá! Eu sou o Mikael Allef, amante de jogos e tecnologias. 🌌
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+### 🙅‍♂️ About Me 
 
+My name is Mikael Allef 23 years old, Graduating in Systems Analysis and Development at FMU.
+
+🖥 Freelancer em Designer Gráfico;
+
+## 🤹‍♂️ Skills
+#### 👨‍💻 Programming Languages
+![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) 
+![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) 
+![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) 
+
+#### 🛠 Multimedia Tools
+![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-dc5400?style=flat&logoColor=white&logo=microsoft-office) 
+![Adobe Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
+
+#### 🏗 IDEs
+![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-1880C6?style=flat&logoColor=white&logo=visual-studio)
+![PyCharm](https://img.shields.io/badge/-PyCharm-20D68B?style=flat&logoColor=white&logo=pycharm) 
+
+#### 💻 Operational Systems
+![Microsoft Windows](https://img.shields.io/badge/-Microsoft_Windows-00A8E8?style=flat&logoColor=white&logo=windows) 
+![Android](https://img.shields.io/badge/-Android-3bd580?style=flat&logoColor=white&logo=android)
+
+#### 🗺 Conversational Languages
+![Brazilian Portuguese](https://img.shields.io/badge/-Brazilian_Portuguese:_Native-009638?style=flat&logoColor=white) 
+![English](https://img.shields.io/badge/-English:_Basic_(B2)-39386B?style=flat&logoColor=white)
+
+## 🧾 GitHub Statistics
 
 ![Mikael GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaelallef&show_icons=true&theme=dark)
-
-## Tecnologias que uso
-<div style="Display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="right" alt="imagem" src="https://cdn.discordapp.com/attachments/736979168830423171/956978629219323954/numero-nove.gif"/>
   
+  
+ >,,Todo mundo é um gênio. Mas, se você julgar um peixe por sua capacidade de subir em uma árvore, ela vai gastar toda a sua vida acreditando que ele é estúpido.“
   </div>
