@@ -3,7 +3,6 @@ My name is Mikael Allef 23 years old, Graduating in **Systems Analysis and Devel
 
 :school: Education Institute, [FIAP on](https://on.fiap.com.br), [Rocketseat](https://www.rocketseat.com.br) and [Samsung Ocean](http://oceanbrasil.com:school: )
 
-🖥 Freelancer Graphic Designer
 
 ## 🤹‍♂️ Skills
 #### 👨‍💻 Programming Languages ( Em Aprendizado )
@@ -11,8 +10,7 @@ My name is Mikael Allef 23 years old, Graduating in **Systems Analysis and Devel
 ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) 
 ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python)
 
-#### 🛠 Multimedia Tools
-![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-dc5400?style=flat&logoColor=white&logo=microsoft-office) 
+#### 🛠 Multimedia Tools 
 ![Adobe Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 
 #### 🏗 IDEs
