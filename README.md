@@ -1,5 +1,5 @@
 # 🙅‍♂️ About Me 
-My name is Mikael Allef 23 years old, Graduating in **Systems Analysis and Development** at [FMU](https://portal.fmu.br). 🇧🇷
+My name is Mikael Allef 24 years old, Graduating in **Systems Analysis and Development** at [FMU](https://portal.fmu.br). 🇧🇷
 
 :school: Education Institute, [FIAP on](https://on.fiap.com.br), [Rocketseat](https://www.rocketseat.com.br) and [Samsung Ocean](http://oceanbrasil.com:school: )
 
