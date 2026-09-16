@@ -1,101 +1,203 @@
-# 👋 Hello, I'm Mikael Allef
+[README.md](https://github.com/user-attachments/files/32291285/README.md)
+<div align="center">
 
-### 🤖 AI & Automation Developer
+<img src="./assets/hero.svg" alt="Mikael Allef — AI & Automation" width="100%"/>
 
-I build intelligent systems, automations and digital solutions designed to
-reduce manual work, improve processes and increase productivity.
+<br>
 
-My current focus is **Artificial Intelligence, Generative AI and workflow
-automation with n8n**.
+### AI × AUTOMATION × SYSTEMS
 
----
+**Building intelligent workflows that turn repetitive processes into automated systems.**
 
-## 🚀 What I Do
+<br>
 
-- 🤖 Artificial Intelligence & Generative AI
-- ⚙️ Workflow Automation with n8n
-- 🧠 AI Agents & AI-powered workflows
-- 🔗 API integrations
-- 🌐 Web systems and internal tools
-- 📊 Process optimization
-- 🛠️ Automation of repetitive tasks
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MikaelAllef)
+
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## `01 / WHO I AM`
 
-### 🤖 AI & Automation
+I'm **Mikael Allef**, an AI & Automation enthusiast focused on building practical digital systems.
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+My work sits at the intersection of **Generative AI, workflow automation and connected systems**, with a strong focus on turning manual processes into reliable automated flows.
 
-### 💻 Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🔌 Integrations & Tools
-
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+> **I don't automate for the sake of automation.  
+> I build systems that make work simpler.**
 
 ---
 
-## 🧠 Currently Learning
+## `02 / WHAT I BUILD`
 
-- Artificial Intelligence
-- AI Agents
-- Generative AI
-- Advanced n8n Workflows
-- Python
-- APIs & Integrations
-- Automation Architecture
+<table>
+<tr>
+<td width="50%">
 
----
+### 🤖 AI SYSTEMS
 
-## 🔨 Projects
+AI-powered solutions designed to understand information, generate content and support real workflows.
 
-### 🤖 AI Automation Systems
+</td>
+<td width="50%">
 
-Building intelligent workflows that combine **AI + APIs + automation**
-to transform repetitive processes into autonomous systems.
+### ⚙️ AUTOMATION
 
-### ⚙️ n8n Automation
+Workflows that connect tools, services and business processes with minimal manual intervention.
 
-Designing workflows with n8n for:
+</td>
+</tr>
+<tr>
+<td>
 
-- Data processing
-- AI-powered operations
-- API integrations
-- Notifications
-- Content workflows
-- Business processes
-- Automated decision flows
+### 🧠 AI AGENTS
 
-### 🧠 AI Agents
+Exploring agent-based architectures capable of reasoning, creating, reviewing and executing tasks.
 
-Exploring architectures where multiple AI agents can collaborate to
-analyze, create, review and execute tasks.
+</td>
+<td>
 
----
+### 🔗 INTEGRATIONS
 
-## 📊 GitHub Statistics
+Connecting APIs, webhooks, applications and AI models into useful digital systems.
 
-![Mikael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaelAllef&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelAllef&layout=compact&theme=dark)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Connect With Me
+## `03 / CORE STACK`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+<div align="center">
+
+| AREA | TECHNOLOGIES |
+|:---|:---|
+| 🤖 **Artificial Intelligence** | Generative AI · LLMs · AI Agents |
+| ⚙️ **Automation** | **n8n** · Workflow Design · Process Automation |
+| 🔗 **Integration** | REST APIs · Webhooks · API Integration |
+| 🌐 **Development** | HTML · CSS · JavaScript |
+| 🧩 **Systems** | AI Workflows · Internal Tools · Digital Systems |
+
+</div>
 
 ---
 
-> **"The goal isn't to automate everything. It's to make technology work
-> for people."**
+## `04 / HOW I THINK`
+
+```text
+                         ┌───────────────┐
+                         │    PROBLEM    │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │  UNDERSTAND   │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                    ┌────────────────────────┐
+                    │    DESIGN WORKFLOW     │
+                    └────────────┬───────────┘
+                                 │
+                    ┌────────────┴────────────┐
+                    ▼                         ▼
+             ┌─────────────┐           ┌─────────────┐
+             │     n8n     │◄─────────►│     AI      │
+             └──────┬──────┘           └──────┬──────┘
+                    │                         │
+                    └────────────┬────────────┘
+                                 ▼
+                         ┌───────────────┐
+                         │   INTEGRATE   │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │     TEST      │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    IMPROVE    │
+                         └───────────────┘
+```
+
+---
+
+## `05 / SELECTED PROJECTS`
+
+### `01` — AI Automation System
+
+> **AI + n8n + APIs**
+
+Intelligent workflows designed to automate repetitive operations, connect external services and use AI where human decision-making can be reduced.
+
+**Focus:** `n8n` `AI` `APIs` `Webhooks`
+
+---
+
+### `02` — AI Agent Architecture
+
+> **Agents that collaborate**
+
+Exploring modular AI agents with specialized responsibilities such as strategy, generation, review and execution.
+
+**Focus:** `AI Agents` `LLMs` `Workflows` `Automation`
+
+---
+
+### `03` — Business Automation
+
+> **From manual process → automated workflow**
+
+Systems designed around real operational problems, combining triggers, data processing, integrations and automated actions.
+
+**Focus:** `Process Automation` `n8n` `Integrations`
+
+---
+
+## `06 / CURRENTLY EXPLORING`
+
+```text
+[████████████████████░░]  Generative AI
+[███████████████████░░░]  n8n Automation
+[██████████████████░░░░]  AI Agents
+[█████████████████░░░░░]  API Integrations
+[████████████████░░░░░░]  Automation Architecture
+```
+
+---
+
+## `07 / GITHUB ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MikaelAllef&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=8B949E" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelAllef&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=8B949E" height="165"/>
+
+</div>
+
+---
+
+## `08 / CONNECT`
+
+<div align="center">
+
+**Interested in AI, automation or building something useful?**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+
+<br><br>
+
+`AI` · `AUTOMATION` · `n8n` · `SYSTEMS`
+
+<br>
+
+<sub>Designed and built by Mikael Allef.</sub>
+
+</div>
