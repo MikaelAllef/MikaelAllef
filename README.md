@@ -15,7 +15,6 @@ automation with n8n**.
 - 🤖 Artificial Intelligence & Generative AI
 - ⚙️ Workflow Automation with n8n
 - 🧠 AI Agents & AI-powered workflows
-- 🐍 Python automation and development
 - 🔗 API integrations
 - 🌐 Web systems and internal tools
 - 📊 Process optimization
