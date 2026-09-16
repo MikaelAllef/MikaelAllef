@@ -1,0 +1,48 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="358" rx="17" stroke="#30363D"/>
+
+  <!-- grid -->
+  <g opacity="0.18" stroke="#39D353">
+    <path d="M40 40H1160M40 80H1160M40 120H1160M40 160H1160M40 200H1160M40 240H1160M40 280H1160M40 320H1160"/>
+    <path d="M80 20V340M120 20V340M160 20V340M200 20V340M240 20V340M280 20V340M320 20V340M360 20V340M400 20V340M440 20V340M480 20V340M520 20V340M560 20V340M600 20V340M640 20V340M680 20V340M720 20V340M760 20V340M800 20V340M840 20V340M880 20V340M920 20V340M960 20V340M1000 20V340M1040 20V340M1080 20V340M1120 20V340"/>
+  </g>
+
+  <!-- workflow -->
+  <g opacity="0.85" stroke="#39D353" stroke-width="2">
+    <path d="M820 82H900L935 117H1010"/>
+    <path d="M820 178H900L935 143H1010"/>
+    <path d="M820 274H900L935 239H1010"/>
+  </g>
+
+  <g>
+    <rect x="770" y="58" width="50" height="50" rx="10" fill="#161B22" stroke="#39D353"/>
+    <text x="795" y="89" text-anchor="middle" font-family="monospace" font-size="18" fill="#39D353">AI</text>
+
+    <rect x="770" y="153" width="50" height="50" rx="10" fill="#161B22" stroke="#39D353"/>
+    <text x="795" y="184" text-anchor="middle" font-family="monospace" font-size="15" fill="#39D353">n8n</text>
+
+    <rect x="770" y="248" width="50" height="50" rx="10" fill="#161B22" stroke="#39D353"/>
+    <text x="795" y="279" text-anchor="middle" font-family="monospace" font-size="13" fill="#39D353">API</text>
+
+    <circle cx="1015" cy="117" r="8" fill="#39D353"/>
+    <circle cx="1015" cy="178" r="8" fill="#39D353"/>
+    <circle cx="1015" cy="239" r="8" fill="#39D353"/>
+  </g>
+
+  <!-- terminal label -->
+  <rect x="60" y="58" width="92" height="24" rx="5" fill="#161B22"/>
+  <text x="106" y="75" text-anchor="middle" font-family="monospace" font-size="11" fill="#39D353">SYSTEM_01</text>
+
+  <!-- title -->
+  <text x="60" y="154" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" fill="#F0F6FC">MIKAEL ALLEF</text>
+  <text x="63" y="194" font-family="monospace" font-size="19" letter-spacing="3" fill="#39D353">AI • AUTOMATION • SYSTEMS</text>
+
+  <line x1="62" y1="220" x2="650" y2="220" stroke="#30363D"/>
+  <text x="62" y="254" font-family="monospace" font-size="15" fill="#8B949E">BUILDING INTELLIGENT WORKFLOWS</text>
+  <text x="62" y="279" font-family="monospace" font-size="15" fill="#8B949E">THAT MAKE WORK SIMPLER.</text>
+
+  <!-- status -->
+  <circle cx="65" cy="315" r="5" fill="#39D353"/>
+  <text x="80" y="320" font-family="monospace" font-size="12" fill="#8B949E">ONLINE / BUILDING</text>
+</svg>
